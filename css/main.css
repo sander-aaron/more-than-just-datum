@@ -1,3 +1,27 @@
 html {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+img-flex {
+  width: 100%;
+}
+
+input {
+  background-image: url(../images/search.svg);
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: #ddd;
+}
+
+section {
+  background-color: #efefef;
+}
+
+.near {
+  background-color: #fff;
+  border-radius: 6px;
 }
