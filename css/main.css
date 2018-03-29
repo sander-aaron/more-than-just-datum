@@ -25,3 +25,11 @@ section {
   background-color: #fff;
   border-radius: 6px;
 }
+
+table {
+  overflow: scroll;
+}
+
+.parktype {
+  width: 8em;
+}
