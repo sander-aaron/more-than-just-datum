@@ -26,10 +26,15 @@ section {
   border-radius: 6px;
 }
 
-table {
-  overflow: scroll;
+.scroll {
+  width: 100%;
+  overflow: hidden;
 }
 
 .parktype {
   width: 8em;
+}
+
+.table-wrapper {
+  overflow: visible;
 }
